@@ -1,0 +1,3 @@
+/home/marios/vision_projects/Contours/CMakeFiles/Contours.dir
+/home/marios/vision_projects/Contours/CMakeFiles/Contours2.dir
+/home/marios/vision_projects/Contours/CMakeFiles/generalContours_demo1.dir

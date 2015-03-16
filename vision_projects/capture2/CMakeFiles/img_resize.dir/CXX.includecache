@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/temp/capture2/img_resize.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+opencv2/opencv.hpp
+-
+

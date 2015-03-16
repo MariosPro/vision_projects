@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( BoF-SIFT )
+find_package( OpenCV REQUIRED )
+add_executable( BoF-SIFT BoF-SIFT.cpp )
+add_executable( bof-svm bof-svm.cpp )
+target_link_libraries( bof-svm ${OpenCV_LIBS} )
+target_link_libraries( BoF-SIFT ${OpenCV_LIBS} )

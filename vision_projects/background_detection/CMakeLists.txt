@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( background_detection )
+find_package( OpenCV REQUIRED )
+add_executable( background_detection background_detection.cpp )
+target_link_libraries( background_detection ${OpenCV_LIBS} )

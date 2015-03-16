@@ -1,0 +1,1 @@
+/home/marios/temp/face_detector/CMakeFiles/face_detector.dir

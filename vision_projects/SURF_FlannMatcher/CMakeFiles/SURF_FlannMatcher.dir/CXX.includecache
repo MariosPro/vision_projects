@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/temp/SURF_FlannMatcher/SURF_FlannMatcher.cpp
+stdio.h
+-
+iostream
+-
+opencv2/core/core.hpp
+/home/marios/temp/SURF_FlannMatcher/opencv2/core/core.hpp
+opencv2/features2d/features2d.hpp
+/home/marios/temp/SURF_FlannMatcher/opencv2/features2d/features2d.hpp
+opencv2/highgui/highgui.hpp
+/home/marios/temp/SURF_FlannMatcher/opencv2/highgui/highgui.hpp
+opencv2/nonfree/features2d.hpp
+/home/marios/temp/SURF_FlannMatcher/opencv2/nonfree/features2d.hpp
+

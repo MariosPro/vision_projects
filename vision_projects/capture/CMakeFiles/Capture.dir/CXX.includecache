@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/capture/capture.cpp
+opencv2/opencv.hpp
+/home/marios/vision_projects/capture/opencv2/opencv.hpp
+

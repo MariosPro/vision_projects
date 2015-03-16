@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( video-input-psnr-ssim )
+find_package( OpenCV REQUIRED )
+add_executable( video-input-psnr-ssim video-input-psnr-ssim.cpp )
+target_link_libraries( video-input-psnr-ssim ${OpenCV_LIBS} )

@@ -1,0 +1,6 @@
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0001.png,qr,150,102,573,430
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0002.png,qr,147,144,547,436
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0003.png,qr,155,56,475,386
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0004.png,qr,153,14,465,356
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0005.png,qr,220,103,486,440
+/home/marios/pandora_supplementary_material/vision/dataset/dataset_part1//frame0006.png,qr,92,233,519,466

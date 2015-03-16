@@ -1,0 +1,2 @@
+/home/marios/vision_projects/annotator/CMakeFiles/annotator.dir
+/home/marios/vision_projects/annotator/CMakeFiles/image_sequence.dir

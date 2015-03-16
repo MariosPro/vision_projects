@@ -1,0 +1,3 @@
+/home/marios/vision_projects/ColorDetection/CMakeFiles/ColorDetection.dir
+/home/marios/vision_projects/ColorDetection/CMakeFiles/ColorDetection2.dir
+/home/marios/vision_projects/ColorDetection/CMakeFiles/ColorDetection3.dir

@@ -1,0 +1,4 @@
+/home/marios/temp/Drawing_1/CMakeFiles/Drawing_1.dir
+/home/marios/temp/Drawing_1/CMakeFiles/Drawing_2.dir
+/home/marios/temp/Drawing_1/CMakeFiles/Drawing_3.dir
+/home/marios/temp/Drawing_1/CMakeFiles/Drawing_4.dir

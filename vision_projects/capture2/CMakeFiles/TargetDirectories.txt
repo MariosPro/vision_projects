@@ -1,0 +1,6 @@
+/home/marios/temp/capture2/CMakeFiles/capture2.dir
+/home/marios/temp/capture2/CMakeFiles/capture4.dir
+/home/marios/temp/capture2/CMakeFiles/capture5.dir
+/home/marios/temp/capture2/CMakeFiles/img_cropping.dir
+/home/marios/temp/capture2/CMakeFiles/img_resize.dir
+/home/marios/temp/capture2/CMakeFiles/kostis.dir

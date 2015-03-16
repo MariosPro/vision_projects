@@ -1,0 +1,1 @@
+/home/marios/vision_projects/capture/CMakeFiles/Capture.dir

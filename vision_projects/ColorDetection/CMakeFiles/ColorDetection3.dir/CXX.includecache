@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/ColorDetection/ColorDetection3.cpp
+iostream
+-
+opencv2/highgui/highgui.hpp
+/home/marios/vision_projects/ColorDetection/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/marios/vision_projects/ColorDetection/opencv2/imgproc/imgproc.hpp
+

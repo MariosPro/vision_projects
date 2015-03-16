@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/svm/latentsvm_multidetect.cpp
+iostream
+-
+opencv2/objdetect/objdetect.hpp
+/home/marios/vision_projects/svm/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/marios/vision_projects/svm/opencv2/highgui/highgui.hpp
+opencv2/contrib/contrib.hpp
+/home/marios/vision_projects/svm/opencv2/contrib/contrib.hpp
+io.h
+-
+dirent.h
+-
+cvconfig.h
+-
+tbb/task_scheduler_init.h
+/home/marios/vision_projects/svm/tbb/task_scheduler_init.h
+

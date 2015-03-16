@@ -1,0 +1,4 @@
+/home/marios/vision_projects/svm/CMakeFiles/introduction_to_svm.dir
+/home/marios/vision_projects/svm/CMakeFiles/latentsvm_multidetect.dir
+/home/marios/vision_projects/svm/CMakeFiles/non_linear_svms.dir
+/home/marios/vision_projects/svm/CMakeFiles/training.dir

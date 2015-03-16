@@ -1,0 +1,1 @@
+/home/marios/temp/Sobel/CMakeFiles/Sobel.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/temp/people detect/peopledetect.cpp
+opencv2/imgproc/imgproc.hpp
+/home/marios/temp/people detect/opencv2/imgproc/imgproc.hpp
+opencv2/objdetect/objdetect.hpp
+/home/marios/temp/people detect/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/marios/temp/people detect/opencv2/highgui/highgui.hpp
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+

@@ -1,0 +1,3 @@
+/home/marios/vision_projects/sobelcanny/CMakeFiles/canny.dir
+/home/marios/vision_projects/sobelcanny/CMakeFiles/edge.dir
+/home/marios/vision_projects/sobelcanny/CMakeFiles/sobelcanny.dir

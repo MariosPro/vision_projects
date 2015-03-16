@@ -1,0 +1,1 @@
+/home/marios/vision_projects/GUI/CMakeFiles/gui.dir

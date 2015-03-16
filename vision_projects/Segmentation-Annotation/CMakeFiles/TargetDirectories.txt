@@ -1,0 +1,2 @@
+/home/marios/vision_projects/Segmentation-Annotation/CMakeFiles/grabcut.dir
+/home/marios/vision_projects/Segmentation-Annotation/CMakeFiles/grabcut2.dir

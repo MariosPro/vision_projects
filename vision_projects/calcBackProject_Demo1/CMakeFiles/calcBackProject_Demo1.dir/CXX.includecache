@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/calcBackProject_Demo1/calcBackProject_Demo1.cpp
+opencv2/imgproc/imgproc.hpp
+/home/marios/vision_projects/calcBackProject_Demo1/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/marios/vision_projects/calcBackProject_Demo1/opencv2/highgui/highgui.hpp
+iostream
+-
+

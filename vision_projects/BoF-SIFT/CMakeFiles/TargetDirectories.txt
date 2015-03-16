@@ -1,0 +1,2 @@
+/home/marios/temp/BoF-SIFT/CMakeFiles/BoF-SIFT.dir
+/home/marios/temp/BoF-SIFT/CMakeFiles/bof-svm.dir

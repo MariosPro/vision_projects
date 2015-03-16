@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/svm/training.cpp
+iostream
+-
+math.h
+-
+string
+-
+opencv2/ml/ml.hpp
+-
+opencv2/ml/ml.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+

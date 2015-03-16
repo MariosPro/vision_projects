@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marios/vision_projects/svm/non_linear_svms.cpp
+iostream
+-
+opencv2/ml/ml.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/ml/ml.hpp
+-
+
