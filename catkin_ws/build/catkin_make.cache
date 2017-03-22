@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/marios/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/marios/catkin_ws/install
